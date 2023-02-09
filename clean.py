@@ -90,5 +90,4 @@ setPath()
 
 app.title("Cache Cleaner")
 # app.geometry('400x250')
-
 app.mainloop()
